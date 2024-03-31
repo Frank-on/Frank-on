@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Franklin Onyango. My username is @Frank-on
+- 👀 I’m interested in Data Sciencce
+- 🌱 I’m currently taking a data science course at ALX-Africa
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me
