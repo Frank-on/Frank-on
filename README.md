@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Franklin Onyango. My username is @Frank-on
-- 👀 I’m interested in Data Sciencce
+- 👀 I’m interested in data analysis and data science.
 - 🌱 I’m currently taking a data science course at ALX-Africa
+- 👓 My primary focus is in the use of analysis and science to create business solutions. 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me
+- 📫 How to reach me on linkedin [Franklin Onyango](https://www.linkedin.com/in/franklin_onyango)
