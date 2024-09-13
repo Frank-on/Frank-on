@@ -3,4 +3,4 @@
 - 🌱 I’m currently taking a data science course at ALX-Africa
 - 👓 My primary focus is in the use of analysis and science to create business solutions. 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on linkedin [Franklin Onyango](https://www.linkedin.com/in/franklin_onyango)
+- 📫 You can reach me on my linkedin [Franklin Onyango](https://www.linkedin.com/in/franklin_onyango)
